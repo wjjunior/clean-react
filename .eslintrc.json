@@ -6,7 +6,6 @@
   },
   "extends": [
     "standard-with-typescript",
-    "plugin:react/recommended",
     "plugin:cypress/recommended"
   ],
   "env": {
