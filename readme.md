@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/wjjunior/clean-react.svg?token=8BToagUJqAbzzFzuohWX&branch=master)](https://travis-ci.com/wjjunior/clean-react)
