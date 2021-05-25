@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.com/wjjunior/clean-react.svg?token=8BToagUJqAbzzFzuohWX&branch=master)](https://travis-ci.com/wjjunior/clean-react)
+[![Coverage Status](https://coveralls.io/repos/github/wjjunior/clean-react/badge.svg?branch=master&t=mrgXsF)](https://coveralls.io/github/wjjunior/clean-react?branch=master)
