@@ -14,7 +14,8 @@
     "cypress/globals": true
   },
   "parserOptions": {
-    "project": "./tsconfig-eslint.json"
+    "project": "./tsconfig-eslint.json",
+    "createDefaultProgram": true
   },
   "rules": {
     "@typescript-eslint/consistent-type-definitions": "off",
